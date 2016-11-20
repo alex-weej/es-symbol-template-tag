@@ -1,2 +1,5 @@
-# es-symbol-template-tag
-ECMAScript Symbol.templateTag proposal
+# Symbol.templateTag
+
+This is a stage 0, "strawman" proposal.
+
+
